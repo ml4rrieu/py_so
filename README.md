@@ -17,13 +17,6 @@ Oeuvrer pour la science ouverte avec python
 - Bonne connaissance du paysage et des enjeux de la science ouverte
 
 
-## Formateur
-
-Maxence Larrieu, PhD en informatique et musique, travaille depuis 2015 en université sur la science ouverte. [maxence.larri.eu](https://maxence.larri.eu)
-
-Membre du Comité pour la Science Ouverte : collège Publications.
-
-
 ## Techniques à maîtriser
 
 Prérequis pour aborder des applications métiers
