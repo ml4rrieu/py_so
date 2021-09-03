@@ -43,10 +43,6 @@ goal : récupérer depuis les jeux de données de l'ANR les descriptions des pro
 py_skills : requests, données API, read_csv, filtre, 
 
 
-### Retrouver dans Zenodo les données de la recherche de son établissement
-
-
-
 ### Niveau de bruit de son établissement dans le référentiel structure de HAL
 
 _aurehal_struct_noise_0.1_
@@ -79,3 +75,9 @@ nota : DOI only
 ### Représenter ce que le WOS ne référence pas
 
 Récupérer les données du BSO [Univ. Paris](https://github.com/ml4rrieu/bso_univ_paris). Identifier ce qui n'est pas dans le WOS. 
+
+
+<!--
+    ### Retrouver dans Zenodo les données de la recherche de son établissement
+
+    -->
