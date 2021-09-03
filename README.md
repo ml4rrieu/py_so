@@ -1,6 +1,8 @@
 # Python pour la science ouverte
 #py_so
 
+`2021-09-03 en construction`
+
 formation URFIST 2021-22 
 
 ## Objectif 
@@ -42,7 +44,9 @@ Prérequis pour aborder des applications métiers
 ### Récupérer les projets de recherche ANR portés par son établissememnt
 
 _anr_research_project_
+
 goal : récupérer depuis les jeux de données de l'ANR les descriptions des projets de rech. portés par son établissement
+
 py_skills : requests, données API, read_csv, filtre, 
 
 
@@ -61,13 +65,10 @@ _aurehal_struct_noise_0.2_
 
 py_skills : définition d'une fonction avec argument
 
-<br />
-
 _aurehal_struct_noise_0.3_
 
 py_skills : passer du JSON au dataframe, définir deux fonctions, ajouter une colonne avec `.apply()`
 
-<br />
 _aurehal_struct_noise_0.4_
 
 py_skills : pandas filtrer, retrouver les identifiants des établissements à partir de leurs noms
