@@ -53,6 +53,7 @@ py_skills : requests, données API, read_csv, filtre,
 ### Niveau de bruit de son établissement dans le référentiel structure de HAL
 
 _aurehal_struct_noise_0.1_
+
 py_skills : récupérer données API, JSON
 
 
