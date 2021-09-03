@@ -21,7 +21,7 @@ Oeuvrer pour la science ouverte avec python
 
 Prérequis pour aborder des applications métiers
 
-* les différentes façon d'imprimer : directement, `print("ici", "là"), f"{string} encore" , "{} dernière".format("une")`
+* les différentes façon d'imprimer : directement, `print("ici", "là"), f"{ma_variable} encore" , "{} dernière".format("une")`
 * créer une fonction avec argument et sortir un résultat structuré
 * récupérer des données de l'API de HAL en JSON, les formater en dataframe
 * filtrer une dataframe sur les NA, et autres, extraire une liste depuis une dataframe
