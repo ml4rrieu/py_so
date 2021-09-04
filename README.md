@@ -7,9 +7,7 @@ Formation URFIST 2021-22
 
 ## Objectif 
 
-:snake: :closed_lock_with_key:
-
-Oeuvrer pour la science ouverte avec python
+Oeuvrer pour la science ouverte avec python :snake:
 
 
 
