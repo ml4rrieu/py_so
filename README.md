@@ -31,18 +31,18 @@ Prérequis pour aborder des applications métiers
  
 ## Applications
 
-#### Représenter l'évolution et les types de dépôts dans HAL d'un structure
-
-_hal_evol_depots.ipynb_
-
-compétences : requêter dans l'API de HAL en série, restructurer les données, graphique pour les représenter
-
-
-#### Identifier dans HAL les publications issues des projets de recherche qui sont ne pas en accès ouvert (pour rappel de l'obligation)
+#### Identifier dans HAL les publications issues des projets de recherche qui ne sont pas en accès ouvert
 
 _pub_projet_research_no_oa.ipynb_
 
 compétences : requêtes API HAL, restructurer les données
+
+
+#### Représenter l'évolution et les types de dépôts dans HAL d'une structure/institution
+
+_hal_evol_depots.ipynb_
+
+compétences : requêter dans l'API de HAL en série, restructurer les données, graphique pour les représenter
 
 
 #### Récupérer les projets de recherche ANR portés par son établissememnt
