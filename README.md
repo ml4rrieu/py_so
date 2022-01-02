@@ -1,32 +1,39 @@
 # Python pour la science ouverte
-#py_so
 
-`2021-09-04 en construction`
-
-Formation URFIST 2021-22
-
-## Objectif 
-
-Oeuvrer pour la science ouverte avec python :snake:
+[#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
 
 
+![Python pour la science ouverte](./img/py_so_com.png)
 
-## pré-requis
+> Oeuvrer pour la science ouverte avec python :snake:
 
-- Avoir suivi la formation "python, les fondamentaux" de Émilien Schultz ([orcid](http://orcid.org/0000-0002-6215-3606), co-auteur de _Python pour les SHS_ cf. [pyshs.fr](http://pyshs.fr/))
+## Contexte
+
+En juin 2021 le besoin d'une formation sur Python à destination des publics travaillant pour la science ouverte se fait ressentir. Une première édition est réalisée avec l'URFIST d'Occitanie en deux temps : une formation sur les fondamentaux de Python, assurée par Émilien Schultz co-auteur de _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)) sur 1.5 jours, suivie d'une autre sur _Python pour la science ouverte_, assurée par Maxence Larrieu également sur 1,5 jours. 
+
+> On n'apprend pas un langage de programmation en trois jours
+
+En elle même la formation ne vous apprendra pas à programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre réaliser de comprendre et écrire du python pour la science ouverte.
+
+
+
+## Pré-requis
+
+- Avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte) de Émilien Schultz ([orcid](http://orcid.org/0000-0002-6215-3606)
 - Avoir les compétences décrites jusqu'au chapitre 4 de _Python pour les SHS_
-- Maîtriser les API de HAL (search, aurehal:structure)
+- Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel Structure de aurehal)
 - Bonne connaissance du paysage et des enjeux de la science ouverte
+
 
 
 ## Techniques à maîtriser
 
-Prérequis pour aborder des applications métiers
-
-* différentes syntaxes pour imprimer : directement, `print("ici", "là"), f"{ma_variable} encore" , "{} dernière".format("une")`
-* fonction avec argument et sortir un résultat structuré
-* passer des données en JSON en dataframe (Pandas)
+* différentes syntaxes pour imprimer : `print("ici", "là"), f"{ma_variable} encore" , "{} dernière".format("une")`
+* Request, pandas
+* fonction avec argument 
+* sortir un résultat structuré
 * filtrer une dataframe, extraire une liste, ajouter colonne 
+* passer des données en JSON en dataframe (Pandas)
 
  
 ## Applications
@@ -93,4 +100,12 @@ _a_faire_
 <!--
     Récupérer les données du BSO [Univ. Paris](https://github.com/ml4rrieu/bso_univ_paris). Identifier ce qui n'est pas dans le WOS. 
     ### Retrouver dans Zenodo les données de la recherche de son établissement
+-->
+
+
+<!--
+Identifier dans les chapitres d'ouvrage qui peuvent être déposés en Accès ouvert. pour Springer voir
+https://oaamu.hypotheses.org/2197
+
+
 -->
