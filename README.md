@@ -1,15 +1,15 @@
-# [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
-
+# Oeuvrer pour la science ouverte avec Python
 
 ![Python pour la science ouverte](./img/py_so_com.png)
 
-> Oeuvrer pour la science ouverte avec python :snake:
+### ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click) 
+
 
 ## Contexte
 
 En juin 2021 le besoin d'une formation sur Python à destination des publics travaillant pour la science ouverte se fait ressentir. Une première édition est réalisée avec l'URFIST d'Occitanie en deux temps : une formation sur les fondamentaux de Python, assurée par Émilien Schultz co-auteur de _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)) sur 1.5 jours, suivie d'une autre sur _Python pour la science ouverte_, assurée par Maxence Larrieu également sur 1,5 jours. 
 
-> On n'apprend pas un langage de programmation en trois jours
+> Un langage de programmation ne s'apprend pas en trois jours.
 
 En elle même la formation ne vous apprendra pas à programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python pour la science ouverte.
 
@@ -26,7 +26,7 @@ En elle même la formation ne vous apprendra pas à programmer en python. Par co
 
 ## Techniques à maîtriser
 
-* différentes syntaxes pour imprimer : `print("ici", "là"), f"{ma_variable} encore" , "{} dernière".format("une")`
+* différentes syntaxes pour imprimer : `print("ici", "là"), print(f"{ma_variable} encore") , print("{} dernière".format("une"))`
 * Request, pandas
 * fonction avec argument 
 * sortir un résultat structuré
