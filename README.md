@@ -11,7 +11,7 @@ En juin 2021 le besoin d'une formation sur Python à destination des publics tra
 
 > On n'apprend pas un langage de programmation en trois jours
 
-En elle même la formation ne vous apprendra pas à programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre réaliser de comprendre et écrire du python pour la science ouverte.
+En elle même la formation ne vous apprendra pas à programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python pour la science ouverte.
 
 
 
