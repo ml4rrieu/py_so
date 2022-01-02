@@ -19,7 +19,7 @@ En elle même la formation ne vous apprendra pas à programmer en python. Par co
 
 ## Pré-requis
 
-- Avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte) de Émilien Schultz ([orcid](http://orcid.org/0000-0002-6215-3606)
+- Avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte)
 - Avoir les compétences décrites jusqu'au chapitre 4 de _Python pour les SHS_
 - Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel Structure de aurehal)
 - Bonne connaissance du paysage et des enjeux de la science ouverte
