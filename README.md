@@ -1,6 +1,4 @@
-# Python pour la science ouverte
-
-[#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
+# [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
 
 
 ![Python pour la science ouverte](./img/py_so_com.png)
