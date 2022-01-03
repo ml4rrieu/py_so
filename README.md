@@ -1,61 +1,32 @@
 
 ![Python pour la science ouverte](./img/py_so_com.png)
 
-> Oeuvrer pour la science ouverte avec Python
+_Oeuvrer pour la science ouverte avec Python_
 
 
 ### [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
 
 
-
-## Contexte
-
-En juin 2021 le besoin d'une formation sur Python à destination des publics travaillant pour la science ouverte se fait ressentir. Une première édition est réalisée avec l'URFIST d'Occitanie en deux temps : une formation sur les fondamentaux de Python, assurée par Émilien Schultz co-auteur de _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)) sur 1.5 jours, suivie d'une autre sur _Python pour la science ouverte_, assurée par Maxence Larrieu également sur 1,5 jours. 
-
-> Un langage de programmation ne s'apprend pas en trois jours.
-
-En elle même la formation ne vous apprendra pas à programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python pour la science ouverte.
-
-
-
-## Pré-requis
-
-- Avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte)
-- Avoir les compétences décrites jusqu'au chapitre 4 de _Python pour les SHS_
-- Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel Structure de aurehal)
-- Bonne connaissance du paysage et des enjeux de la science ouverte
-
-
-
-## Techniques à maîtriser
-
-* différentes syntaxes pour imprimer : `print("ici", "là"), print(f"{ma_variable} encore") , print("{} dernière".format("une"))`
-* Request, pandas
-* fonction avec argument 
-* sortir un résultat structuré
-* filtrer une dataframe, extraire une liste, ajouter colonne 
-* passer des données en JSON en dataframe (Pandas)
-
  
 ## Applications
 
-#### Identifier dans HAL les publications issues des projets de recherche qui ne sont pas en accès ouvert
+#### Identifier dans HAL les publications de son établissement issues des projets de recherche qui ne sont pas en accès ouvert
 
-_pub_projet_research_no_oa.ipynb_
+[pub_projet_research_hal_no_oa.ipynb](pub_projet_research_hal_no_oa.ipynb)
 
 compétences : requêtes API HAL, restructurer les données
 
 
-#### Représenter l'évolution et les types de dépôts dans HAL d'une structure/institution
+#### Représenter l'évolution et les types de dépôts dans HAL d'une structure ou institution
 
-_hal_evol_depots.ipynb_
+[hal_evol_depots.ipynb](hal_evol_depots.ipynb)
 
 compétences : requêter dans l'API de HAL en série, restructurer les données, graphique pour les représenter
 
 
-#### Récupérer les projets de recherche ANR portés par son établissememnt
+#### Récupérer les projets de recherche ANR portés par son établissemement
 
-_anr_research_project.ipynb_
+[get_anr_research_project.ipynb.ipynb](anr_research_project/get_anr_research_project.ipynb.ipynb)
 
 récupérer depuis les jeux de données de l'ANR les descriptions des projets de rech. portés par son établissement
 
@@ -110,3 +81,31 @@ https://oaamu.hypotheses.org/2197
 
 
 -->
+
+## Pré-requis
+
+- Avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte)
+- Avoir les compétences décrites jusqu'au chapitre 4 de _Python pour les SHS_
+- Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel Structure de aurehal)
+- Bonne connaissance du paysage et des enjeux de la science ouverte
+
+
+
+## Techniques à maîtriser
+
+* différentes syntaxes pour imprimer : `print("ici", "là"), print(f"{ma_variable} encore") , print("{} dernière".format("une"))`
+* Request, pandas
+* fonction avec argument 
+* sortir un résultat structuré
+* filtrer une dataframe, extraire une liste, ajouter colonne 
+* passer des données en JSON en dataframe (Pandas)
+
+
+## Contexte
+
+En juin 2021 le besoin d'une formation sur Python à destination des publics travaillant pour la science ouverte se fait ressentir. Une première édition est réalisée avec l'URFIST d'Occitanie en deux temps : une formation sur les fondamentaux de Python, assurée par Émilien Schultz co-auteur de _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)) sur 1.5 jours, suivie d'une autre sur _Python pour la science ouverte_, assurée par Maxence Larrieu également sur 1,5 jours. 
+
+> Un langage de programmation ne s'apprend pas en trois jours.
+
+En elle même la formation ne vous apprendra pas à programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python pour la science ouverte.
+
