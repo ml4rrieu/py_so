@@ -8,33 +8,46 @@ _Oeuvrer pour la science ouverte avec Python_
 
 
  
-## Applications
+## Mise en oeuvre & exercices
 
 * Identifier dans HAL les publications de son établissement issues des projets de recherche qui ne sont pas en accès ouvert
 
-[pub_projet_research_hal_no_oa.ipynb](pub_projet_research_hal_no_oa.ipynb)
-
-compétences : requêtes API HAL, restructurer les données
+| | |
+| ------ | ----------- |
+|Difficulté| faible   |
+|Exercice | [pub_projet_research_hal_no_oa.ipynb](exo/pub_projet_research_hal_no_oa.ipynb) |
+|Compétences| requêtes API HAL, json vers dataframe|
+|Objectif | faire respecter l'obligation d'accès ouvert|
+|Démo | _à venir_|
 
 <br />
+
 
 * Représenter l'évolution et les types de dépôts dans HAL d'une structure ou institution
 
-[hal_evol_depots.ipynb](hal_evol_depots.ipynb)
+| | |
+| -------- |--------|
+|Difficulté| faible |
+|Exercice | [hal_evol_depots.ipynb](exo/hal_evol_depots.ipynb) |
+|Compétences| requêtes API de HAL en série, json vers dataframe, plot histogramme|
+|Objectif | Automatiser des rapports statistiques des publications dans HAL|
+|Démo | _à venir_|
 
-compétences : requêter dans l'API de HAL en série, restructurer les données, graphique pour les représenter
+<br />
+
+
+* Récupérer les identifiants des projets de recherche ANR portés par son établissemement
+
+| | |
+| -------- |--------|
+|Difficulté| moyen |
+|Exercice | [get_anr_research_project.ipynb.ipynb](exo/get_anr_research_project.ipynb) |
+|Compétences| requêtes aurehal structure, données API, read_csv, filtre|
+|Objectif | initier une politique de suivi des publications des projets de recherche ANR|
+|Démo | _à venir_|
 
 <br />
 
-* Récupérer les projets de recherche ANR portés par son établissemement
-
-[get_anr_research_project.ipynb.ipynb](anr_research_project/get_anr_research_project.ipynb.ipynb)
-
-récupérer depuis les jeux de données de l'ANR les identifiants des projets de recherche portés par son établissement
-
-compétences : requests, données API, read_csv, filtre, 
-
-<br />
 
 * Niveau de bruit de son établissement dans le référentiel structure de HAL
 
