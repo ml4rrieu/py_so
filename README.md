@@ -1,18 +1,15 @@
 
 ![Python pour la science ouverte](./img/py_so_com.png)
 
-_Oeuvrer pour la science ouverte avec Python_
-
-
-### [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
+_Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
 
 
  
-## Mise en oeuvre & exercices
+## Exercices & démonstration
 
 * Identifier dans HAL les publications de son établissement issues des projets de recherche qui ne sont pas en accès ouvert
 
-| | |
+| <!-- -->| <!-- -->|
 | ------ | ----------- |
 |Difficulté| faible   |
 |Exercice | [pub_projet_research_hal_no_oa.ipynb](exo/pub_projet_research_hal_no_oa.ipynb) |
