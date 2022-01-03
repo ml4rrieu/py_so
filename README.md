@@ -10,30 +10,33 @@ _Oeuvrer pour la science ouverte avec Python_
  
 ## Applications
 
-#### Identifier dans HAL les publications de son établissement issues des projets de recherche qui ne sont pas en accès ouvert
+* Identifier dans HAL les publications de son établissement issues des projets de recherche qui ne sont pas en accès ouvert
 
 [pub_projet_research_hal_no_oa.ipynb](pub_projet_research_hal_no_oa.ipynb)
 
 compétences : requêtes API HAL, restructurer les données
 
+<br />
 
-#### Représenter l'évolution et les types de dépôts dans HAL d'une structure ou institution
+* Représenter l'évolution et les types de dépôts dans HAL d'une structure ou institution
 
 [hal_evol_depots.ipynb](hal_evol_depots.ipynb)
 
 compétences : requêter dans l'API de HAL en série, restructurer les données, graphique pour les représenter
 
+<br />
 
-#### Récupérer les projets de recherche ANR portés par son établissemement
+* Récupérer les projets de recherche ANR portés par son établissemement
 
 [get_anr_research_project.ipynb.ipynb](anr_research_project/get_anr_research_project.ipynb.ipynb)
 
-récupérer depuis les jeux de données de l'ANR les descriptions des projets de rech. portés par son établissement
+récupérer depuis les jeux de données de l'ANR les identifiants des projets de recherche portés par son établissement
 
 compétences : requests, données API, read_csv, filtre, 
 
+<br />
 
-#### Niveau de bruit de son établissement dans le référentiel structure de HAL
+* Niveau de bruit de son établissement dans le référentiel structure de HAL
 
 _aurehal_struct_noise_0.1.ipynb_
 
@@ -53,8 +56,9 @@ _aurehal_struct_noise_0.4.ipynb_
 
 compétences : pandas filtrer, retrouver les identifiants des établissements à partir de leurs noms
 
+<br />
 
-#### Vérifier à partir d'une source bibliographique externe la disponibilité en accès ouvert dans HAL des publications de son établissement
+* Vérifier à partir d'une source bibliographique externe la disponibilité en accès ouvert dans HAL des publications de son établissement
 
 source externe : ScanR, Scopus ou autre 
 
@@ -62,10 +66,12 @@ Voir le notebook réalisé dans le cadre du [Casuhalathon 2021](https://casuhal2
 nota : DOI only
 
 
-#### Représenter ce que le WOS ne référence pas
+<br />
+
+
+* Représenter ce que le WOS ne référence pas
 
 _a_faire_
-
 
 
 
