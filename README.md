@@ -5,9 +5,9 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 
 
  
-## Mise en oeuvre
+## Applications
 
-* Identifier dans HAL les publications de son établissement issues des projets de recherche qui ne sont pas en accès ouvert
+### Identifier les publications HAL de son établissement issues des projets ANR qui ne sont pas en accès ouvert
 
 | <!-- -->| <!-- -->|
 | ------ | ----------- |
@@ -20,7 +20,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 <br />
 
 
-* Représenter l'évolution et les types de dépôts dans HAL d'une structure ou institution
+### Représenter l'évolution et les types de dépôts dans HAL d'une structure ou institution
 
 | | |
 | -------- |--------|
@@ -33,7 +33,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 <br />
 
 
-* Récupérer les identifiants des projets de recherche ANR portés par son établissemement
+### Récupérer les identifiants des projets de recherche ANR portés par son établissemement
 
 | | |
 | -------- |--------|
@@ -46,7 +46,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 <br />
 
 
-* Niveau de bruit de son établissement dans le référentiel structure de HAL
+### Niveau de bruit de son établissement dans le référentiel structure de HAL
 
 | | |
 | -------- |--------|
@@ -58,14 +58,14 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 
 <br />
 
-* Former un tableau des structures non valides avec le nombre de documents associés
+### Former un tableau des structures non valides avec le nombre de documents associés
 
 | | |
 | -------- |--------|
 |Difficulté| moyen |
 |Exercice | [aurehal_struct_incoming_list.ipynb](exo/aurehal_struct_incoming_list.ipynb) |
 |Compétences| requêtes aurehal struct, données API, fonction apply|
-|Objectif | Nettoyer les structure de son établissement dans le référentiel AureHAL|
+|Objectif | Nettoyer les structures de son établissement dans le référentiel AureHAL|
 |Démo | _à venir_|
 
 
@@ -79,13 +79,11 @@ compétences : pandas filtrer, retrouver les identifiants des établissements à
 <br />
 -->
 
-* Vérifier à partir d'une source bibliographique externe la disponibilité en accès ouvert dans HAL des publications de son établissement
+### Vérifier à partir d'une source externe la présence en accès ouvert dans HAL des publications de son établissement
 
 source externe : ScanR, Scopus ou autre 
 
 Voir le notebook réalisé dans le cadre du [Casuhalathon 2021](https://casuhal2021.sciencesconf.org/resource/page/id/8) :  [github.com/ml4rrieu/halathon](https://github.com/ml4rrieu/halathon)
-nota : DOI only
-
 
 <br />
 
