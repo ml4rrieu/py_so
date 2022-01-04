@@ -5,7 +5,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 
 
  
-## Exercices & démonstration
+## Mise en oeuvre
 
 * Identifier dans HAL les publications de son établissement issues des projets de recherche qui ne sont pas en accès ouvert
 
@@ -27,7 +27,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 |Difficulté| faible |
 |Exercice | [hal_evol_depots.ipynb](exo/hal_evol_depots.ipynb) |
 |Compétences| requêtes API de HAL en série, json vers dataframe, plot histogramme|
-|Objectif | Automatiser des rapports statistiques des publications dans HAL|
+|Objectif | Automatiser la production de statistiques pour les unités de recherche|
 |Démo | _à venir_|
 
 <br />
@@ -38,7 +38,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 | | |
 | -------- |--------|
 |Difficulté| moyen |
-|Exercice | [get_anr_research_project.ipynb.ipynb](exo/get_anr_research_project.ipynb) |
+|Exercice | [get_anr_research_project.ipynb](exo/get_anr_research_project.ipynb) |
 |Compétences| requêtes aurehal structure, données API, read_csv, filtre|
 |Objectif | initier une politique de suivi des publications des projets de recherche ANR|
 |Démo | _à venir_|
@@ -48,25 +48,36 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 
 * Niveau de bruit de son établissement dans le référentiel structure de HAL
 
-_aurehal_struct_noise_0.1.ipynb_
+| | |
+| -------- |--------|
+|Difficulté| facile |
+|Exercice | [aurehal_struct_noise.ipynb](exo/aurehal_struct_noise.ipynb) |
+|Compétences| requêtes aurehal structure, données API, fonction|
+|Objectif | Mesurer le niveau de bruit de son établissement dans le référentiel HAL structure|
+|Démo | _à venir_|
 
-compétences : récupérer données API, JSON
+<br />
 
-_aurehal_struct_noise_0.2.ipynb_
+* Former un tableau des structures non valides avec le nombre de documents associés
 
-compétences : définition d'une fonction avec argument
+| | |
+| -------- |--------|
+|Difficulté| moyen |
+|Exercice | [aurehal_struct_incoming_list.ipynb](exo/aurehal_struct_incoming_list.ipynb) |
+|Compétences| requêtes aurehal struct, données API, fonction apply|
+|Objectif | Nettoyer les structure de son établissement dans le référentiel AureHAL|
+|Démo | _à venir_|
 
-_aurehal_struct_noise_0.3.ipynb_
 
-compétences : passer du JSON au dataframe, définir deux fonctions, ajouter une colonne avec `.apply()`
+<br />
 
-_aurehal_struct_noise_0.4.ipynb_
-
+<!--
+* _aurehal_struct_noise_0.4.ipynb_
 /!\ un classement des établissements par taux de propreté dans le référentiel structure
-
 compétences : pandas filtrer, retrouver les identifiants des établissements à partir de leurs noms
 
 <br />
+-->
 
 * Vérifier à partir d'une source bibliographique externe la disponibilité en accès ouvert dans HAL des publications de son établissement
 
@@ -79,13 +90,14 @@ nota : DOI only
 <br />
 
 
+<!--
+
 * Représenter ce que le WOS ne référence pas
 
 _a_faire_
 
 
 
-<!--
     Récupérer les données du BSO [Univ. Paris](https://github.com/ml4rrieu/bso_univ_paris). Identifier ce qui n'est pas dans le WOS. 
     ### Retrouver dans Zenodo les données de la recherche de son établissement
 -->
@@ -94,8 +106,6 @@ _a_faire_
 <!--
 Identifier dans les chapitres d'ouvrage qui peuvent être déposés en Accès ouvert. pour Springer voir
 https://oaamu.hypotheses.org/2197
-
-
 -->
 
 ## Pré-requis
