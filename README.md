@@ -15,7 +15,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 |Exercice | [pub_projet_research_hal_no_oa.ipynb](exo/pub_projet_research_hal_no_oa.ipynb) |
 |Compétences| requêtes API HAL, json vers dataframe|
 |Objectif | faire respecter l'obligation d'accès ouvert|
-|Démo | _à venir_|
+|Démo | _demo/pub_projet_research_hal_no_oa.ipynb_|
 
 <br />
 
@@ -28,7 +28,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 |Exercice | [hal_evol_depots.ipynb](exo/hal_evol_depots.ipynb) |
 |Compétences| requêtes API de HAL en série, json vers dataframe, plot histogramme|
 |Objectif | Automatiser la production de statistiques pour les unités de recherche|
-|Démo | _à venir_|
+|Démo | _demo/hal_evol_depots.ipynb_|
 
 <br />
 
@@ -41,7 +41,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 |Exercice | [get_anr_research_project.ipynb](exo/get_anr_research_project.ipynb) |
 |Compétences| requêtes aurehal structure, données API, read_csv, filtre|
 |Objectif | initier une politique de suivi des publications des projets de recherche ANR|
-|Démo | _à venir_|
+|Démo | _demo/get_anr_research_project.ipynb_|
 
 <br />
 
@@ -54,11 +54,11 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 |Exercice | [aurehal_struct_noise.ipynb](exo/aurehal_struct_noise.ipynb) |
 |Compétences| requêtes aurehal structure, données API, fonction|
 |Objectif | Mesurer le niveau de bruit de son établissement dans le référentiel HAL structure|
-|Démo | _à venir_|
+|Démo | _demo/aurehal_struct_noise_|
 
 <br />
 
-### Former un tableau des structures non valides avec le nombre de documents associés
+### Extraire un tableau des structures non valides de son étab. avec le nombre de documents associés
 
 | | |
 | -------- |--------|
@@ -66,18 +66,24 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 |Exercice | [aurehal_struct_incoming_list.ipynb](exo/aurehal_struct_incoming_list.ipynb) |
 |Compétences| requêtes aurehal struct, données API, fonction apply|
 |Objectif | Nettoyer les structures de son établissement dans le référentiel AureHAL|
+|Démo | _demo/aurehal_struct_incoming_list.ipynb_|
+
+
+<br />
+
+### Effectuer un classement des établissements FR selon leur niveau de bruit dans le référentiel structure
+
+| | |
+| -------- |--------|
+|Difficulté| moyen  |
+|Exercice | [aurehal_struct_noise_ranking.ipynb](exo/aurehal_struct_noise_ranking.ipynb) |
+|Compétences| |
+|Objectif | Sensibiliser les adminsitrateurs HAL à la propreté du référentiel structure|
 |Démo | _à venir_|
 
 
 <br />
 
-<!--
-* _aurehal_struct_noise_0.4.ipynb_
-/!\ un classement des établissements par taux de propreté dans le référentiel structure
-compétences : pandas filtrer, retrouver les identifiants des établissements à partir de leurs noms
-
-<br />
--->
 
 ### Vérifier à partir d'une source externe la présence en accès ouvert dans HAL des publications de son établissement
 
@@ -95,13 +101,13 @@ Voir le notebook réalisé dans le cadre du [Casuhalathon 2021](https://casuhal2
 _a_faire_
 
 
-
-    Récupérer les données du BSO [Univ. Paris](https://github.com/ml4rrieu/bso_univ_paris). Identifier ce qui n'est pas dans le WOS. 
-    ### Retrouver dans Zenodo les données de la recherche de son établissement
--->
+Récupérer les données du BSO [Univ. Paris](https://github.com/ml4rrieu/bso_univ_paris). Identifier ce qui n'est pas dans le WOS. 
+### Retrouver dans Zenodo les données de la recherche de son établissement
 
 
-<!--
+_a_faire_
+
+
 Identifier dans les chapitres d'ouvrage qui peuvent être déposés en Accès ouvert. pour Springer voir
 https://oaamu.hypotheses.org/2197
 -->
@@ -131,5 +137,5 @@ En juin 2021 le besoin d'une formation sur Python à destination des publics tra
 
 > Un langage de programmation ne s'apprend pas en trois jours.
 
-En elle même la formation ne vous apprendra pas à programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python pour la science ouverte.
+Ces formations ne vous premettront pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python pour la science ouverte.
 
