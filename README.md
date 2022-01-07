@@ -77,7 +77,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 | -------- |--------|
 |Difficulté| moyen  |
 |Exercice | [aurehal_struct_noise_ranking.ipynb](exo/aurehal_struct_noise_ranking.ipynb) |
-|Compétences| |
+|Compétences| requêtes aurehal struct, données API, fonction|
 |Objectif | Sensibiliser les adminsitrateurs HAL à la propreté du référentiel structure|
 |Démo | _à venir_|
 
