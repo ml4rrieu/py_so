@@ -50,7 +50,7 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 
 | | |
 | -------- |--------|
-|Difficulté| facile |
+|Difficulté| faible |
 |Exercice | [aurehal_struct_noise.ipynb](exo/aurehal_struct_noise.ipynb) |
 |Compétences| requêtes aurehal structure, données API, fonction|
 |Objectif | Mesurer le niveau de bruit de son établissement dans le référentiel HAL structure|
@@ -87,9 +87,14 @@ _Oeuvrer pour la science ouverte avec Python_ twitter : [#py_so](https://twitter
 
 ### Vérifier à partir d'une source externe la présence en accès ouvert dans HAL des publications de son établissement
 
-source externe : ScanR, Scopus ou autre 
+| | |
+| -------- |--------|
+|Difficulté| forte  |
+|Compétences| API ScanR, Permissions, Module python|
+|Objectif | Identifier les publications de son établissement pouvant être déposées en accès ouvert #HALathon|
+|Démo | [github.com/ml4rrieu/halathon](https://github.com/ml4rrieu/halathon)|
 
-Voir le notebook réalisé dans le cadre du [Casuhalathon 2021](https://casuhal2021.sciencesconf.org/resource/page/id/8) :  [github.com/ml4rrieu/halathon](https://github.com/ml4rrieu/halathon)
+Notebook réalisé dans le cadre du [CasuHalathon 2021](https://casuhal2021.sciencesconf.org/resource/page/id/8) 
 
 <br />
 
