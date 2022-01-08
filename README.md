@@ -3,9 +3,6 @@
 
 _Oeuvrer pour la science ouverte avec Python_ 
 
-<br />
-<br />
-
 * twitter : [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
 
 <br />
