@@ -7,9 +7,6 @@
 <br />
 
 [Application](#applications) | [Techniques](#techniques-à-maîtriser) | [Contexte](#contexte)
-
-<br />
-<br />
  
 ## Applications
 
