@@ -126,6 +126,9 @@ Identifier dans les chapitres d'ouvrage qui peuvent être déposés en Accès ou
 https://oaamu.hypotheses.org/2197
 -->
 
+<br />
+<br />
+
 ## Pré-requis
 
 - Avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte)
@@ -133,7 +136,8 @@ https://oaamu.hypotheses.org/2197
 - Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel Structure de aurehal)
 - Bonne connaissance du paysage et des enjeux de la science ouverte
 
-
+<br />
+<br />
 
 ## Techniques à maîtriser
 
@@ -144,7 +148,8 @@ https://oaamu.hypotheses.org/2197
 * sortir un résultat structuré
 * filtrer une dataframe, extraire une liste, ajouter colonne 
 
-
+<br />
+<br />
 
 ## Contexte
 
