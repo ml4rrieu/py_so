@@ -1,13 +1,15 @@
 
 ![Python pour la science ouverte](./img/py_so_com.png)
 
-_Oeuvrer pour la science ouverte avec Python_ 
-
 * twitter : [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
 
 <br />
 <br />
 
+[Application](#applications) | [Techniques](#techniques-à-maîtriser) | [Contexte](#contexte)
+
+<br />
+<br />
  
 ## Applications
 
@@ -103,18 +105,24 @@ Notebook réalisé dans le cadre du [CasuHalathon 2021](https://casuhal2021.scie
 <br />
 
 
+### Retrouver dans Zenodo les jeux de données de son établissement 
+
+| | |
+| -------- |--------|
+|Difficulté| moyenne  |
+|Compétences| API Zenodo, JSON, iterations |
+|Objectif | Retrouver les jeux de données déposés dans Zenodo relevant de son établissement|
+|Démo | [get_dataset_from_zenodo.ipynb](demo/get_dataset_from_zenodo.ipynb)|
+
+
 <!--
+
+_a_faire_
+
 
 * Représenter ce que le WOS ne référence pas
 
-_a_faire_
-
-
 Récupérer les données du BSO [Univ. Paris](https://github.com/ml4rrieu/bso_univ_paris). Identifier ce qui n'est pas dans le WOS. 
-### Retrouver dans Zenodo les données de la recherche de son établissement
-
-
-_a_faire_
 
 
 Identifier dans les chapitres d'ouvrage qui peuvent être déposés en Accès ouvert. pour Springer voir
@@ -134,10 +142,11 @@ https://oaamu.hypotheses.org/2197
 
 * différentes syntaxes pour imprimer : `print("ici", "là"), print(f"{ma_variable} encore") , print("{} dernière".format("une"))`
 * Request, pandas
+* passer des données en JSON en dataframe (Pandas)
 * fonction avec argument 
 * sortir un résultat structuré
 * filtrer une dataframe, extraire une liste, ajouter colonne 
-* passer des données en JSON en dataframe (Pandas)
+
 
 
 ## Contexte
@@ -146,5 +155,5 @@ En juin 2021 le besoin d'une formation sur Python à destination des publics tra
 
 > Un langage de programmation ne s'apprend pas en trois jours.
 
-Ces formations ne vous premettront pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python pour la science ouverte.
+La formation ne vous permettra pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python.
 
