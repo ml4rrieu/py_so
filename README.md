@@ -6,7 +6,7 @@
 <br />
 <br />
 
-[Application](#applications) | [Techniques](#techniques-à-maîtriser) | [Contexte](#contexte)
+[Applications](#applications) | [Techniques](#techniques-à-maîtriser) | [Contexte](#contexte)
  
 ## Applications
 
@@ -18,7 +18,7 @@
 |Exercice | [pub_projet_research_hal_no_oa.ipynb](exo/pub_projet_research_hal_no_oa.ipynb) |
 |Compétences| requêtes API HAL, json vers dataframe|
 |Objectif | faire respecter l'obligation d'accès ouvert|
-|Démo | _demo/pub_projet_research_hal_no_oa.ipynb_|
+|Démo | [pub_projet_research_hal_no_oa.ipynb](demo/pub_projet_research_hal_no_oa.ipynb)|
 
 <br />
 
@@ -31,7 +31,7 @@
 |Exercice | [hal_evol_depots.ipynb](exo/hal_evol_depots.ipynb) |
 |Compétences| requêtes API de HAL en série, json vers dataframe, plot histogramme|
 |Objectif | Automatiser la production de statistiques pour les unités de recherche|
-|Démo | _demo/hal_evol_depots.ipynb_|
+|Démo | [hal_evol_depots.ipynb](demo/hal_evol_depots.ipynb)|
 
 <br />
 
@@ -44,7 +44,7 @@
 |Exercice | [get_anr_research_project.ipynb](exo/get_anr_research_project.ipynb) |
 |Compétences| requêtes aurehal structure, données API, read_csv, filtre|
 |Objectif | initier une politique de suivi des publications des projets de recherche ANR|
-|Démo | _demo/get_anr_research_project.ipynb_|
+|Démo | [get_anr_research_project.ipynb](demo/get_anr_research_project.ipynb) |
 
 <br />
 
@@ -57,7 +57,7 @@
 |Exercice | [aurehal_struct_noise.ipynb](exo/aurehal_struct_noise.ipynb) |
 |Compétences| requêtes aurehal structure, données API, fonction|
 |Objectif | Mesurer le niveau de bruit de son établissement dans le référentiel HAL structure|
-|Démo | _demo/aurehal_struct_noise_|
+|Démo | [aurehal_struct_noise.ipynb](demo/aurehal_struct_noise.ipynb) |
 
 <br />
 
@@ -69,7 +69,7 @@
 |Exercice | [aurehal_struct_incoming_list.ipynb](exo/aurehal_struct_incoming_list.ipynb) |
 |Compétences| requêtes aurehal struct, données API, fonction apply|
 |Objectif | Nettoyer les structures de son établissement dans le référentiel AureHAL|
-|Démo | _demo/aurehal_struct_incoming_list.ipynb_|
+|Démo | [aurehal_struct_incoming_list.ipynb](demo/aurehal_struct_incoming_list.ipynb)|
 
 
 <br />
