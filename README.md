@@ -131,10 +131,10 @@ https://oaamu.hypotheses.org/2197
 
 ## Pré-requis
 
-- Avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte)
-- Avoir les compétences décrites jusqu'au chapitre 4 de _Python pour les SHS_
+- Avoir les compétences décrites jusqu'au chapitre 4 du manuel _Python pour les SHS_ 
+- et/ou avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte) 
 - Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel Structure de aurehal)
-- Bonne connaissance du paysage et des enjeux de la science ouverte
+- Bonne connaissance du paysage de l'ESR et des enjeux de la science ouverte
 
 <br />
 <br />
