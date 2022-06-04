@@ -74,16 +74,29 @@
 
 <br />
 
-### Effectuer un classement des établissements FR selon leur niveau de bruit dans le référentiel structure
+### Calculer le niveau de bruit dans le référentiel structures des établissements ayants un portail HAL
 
 | | |
 | -------- |--------|
 |Difficulté| moyen  |
-|Exercice | [aurehal_struct_noise_ranking.ipynb](exo/aurehal_struct_noise_ranking.ipynb) |
 |Compétences| requêtes aurehal struct, données API, fonction|
 |Objectif | Sensibiliser les adminsitrateurs HAL à la propreté du référentiel structure|
-|Démo | _à venir_|
+|Démo | [aurehal_struct_noise_per_institution.ipynb](exo/aurehal_struct_noise_per_institution.ipynb) |
 
+
+<br />
+
+### Représenter le niveau de bruit des établissements dans le référentiel structure
+
+| | |
+| -------- |--------|
+|Difficulté| moyen  |
+|Compétences| wordcloud, pandas, matplotlib|
+|Objectif | Rendre comte du niveau de bruit des étab. dans le ref. structure|
+|Démo | [aurehal_struct_noise_per_institution_graph.ipynb](exo/aurehal_struct_noise_per_institution_graph.ipynb) |
+
+
+cf. résultat [nuage de mots-clés](img/noise-level-per-institution.png)
 
 <br />
 
@@ -92,7 +105,7 @@
 
 | | |
 | -------- |--------|
-|Difficulté| forte  |
+|Difficulté| fort  |
 |Compétences| API ScanR, Permissions, Module python|
 |Objectif | Identifier les publications de son établissement pouvant être déposées en accès ouvert #HALathon|
 |Démo | [github.com/ml4rrieu/halathon](https://github.com/ml4rrieu/halathon)|
@@ -132,8 +145,7 @@ https://oaamu.hypotheses.org/2197
 ## Pré-requis
 
 - Avoir les compétences décrites jusqu'au chapitre 4 du manuel _Python pour les SHS_ 
-- et/ou avoir suivi la formation [Python, les fondamentaux](https://github.com/pyshs/Formation-URFIST-2021-Toulouse-ScienceOuverte) 
-- Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel Structure de aurehal)
+- Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel structures de aurehal)
 - Bonne connaissance du paysage de l'ESR et des enjeux de la science ouverte
 
 <br />

@@ -1,0 +1,147 @@
+id,code,name,url,structId,structId_name,nb_struct,nb_struct_incoming,noise
+40,unilim,Université de Limoges,https://hal-unilim.archives-ouvertes.fr,5928.0,Université de Limoges [UNILIM],61,8,0.13114754098360656
+33,paris1,Université Paris 1 Panthéon-Sorbonne,https://hal-paris1.archives-ouvertes.fr,7550.0,Université Paris 1 Panthéon-Sorbonne [UP1],228,76,0.3333333333333333
+5817,urca,Université de Reims Champagne-Ardenne,https://hal.univ-reims.fr,7569.0,Université de Reims Champagne-Ardenne [URCA],132,13,0.09848484848484848
+93,univ-paris8,Université Paris 8,https://hal-univ-paris8.archives-ouvertes.fr,11141.0,Université Paris 8 Vincennes-Saint-Denis [UP8],107,2,0.018691588785046728
+55,univ-paris13,Université Paris 13,https://hal-univ-paris13.archives-ouvertes.fr,15786.0,Université Paris 13 [UP13],172,70,0.4069767441860465
+4079,univ-paris3,Université Sorbonne Nouvelle - Paris 3,https://hal-univ-paris3.archives-ouvertes.fr,52995.0,Université Sorbonne Nouvelle - Paris 3,63,2,0.031746031746031744
+5760,univ-poitiers,Université de Poitiers,https://hal-univ-poitiers.archives-ouvertes.fr,54493.0,Université de Poitiers,191,11,0.05759162303664921
+21,pasteur,Institut Pasteur,https://hal-pasteur.archives-ouvertes.fr,300027.0,Institut Pasteur de Madagascar,1003,2,0.0019940179461615153
+47,univ-artois,Université d'Artois,https://hal-univ-artois.archives-ouvertes.fr,56711.0,Université d'Artois [UA],40,0,0.0
+48,polytechnique,Ecole polytechnique,https://hal-polytechnique.archives-ouvertes.fr,300340.0,École Polytechnique de Montréal [EPM],96,21,0.21875
+60,sciencespo,Sciences Po,https://hal-sciencespo.archives-ouvertes.fr,301587.0,Sciences Po Lyon - Institut d'études politiques de Lyon [IEP Lyon],29,10,0.3448275862068966
+7264,univ-angers,Université d'Angers,https://hal.univ-angers.fr,74911.0,Université d'Angers [UA],233,117,0.5021459227467812
+4024,uvsq,Université de Versailles Saint-Quentin-en-Yvelines,https://hal.uvsq.fr,81173.0,Université de Versailles Saint-Quentin-en-Yvelines [UVSQ],82,0,0.0
+6617,utc,Université de Technologie de Compiègne,https://hal.utc.fr,93027.0,Université de Technologie de Compiègne [UTC],24,6,0.25
+56,ens,Ecole Normale Supérieure,https://hal-ens.archives-ouvertes.fr,59704.0,École normale supérieure - Constantine [ENS Constantine],108,2,0.018518518518518517
+7314,utt,Université de technologie de Troyes,https://hal-utt.archives-ouvertes.fr,93484.0,Université de Technologie de Troyes [UTT],8,0,0.0
+3894,univ-perp,Université de Perpignan,https://hal-univ-perp.archives-ouvertes.fr,101475.0,Université de Perpignan Via Domitia [UPVD],86,26,0.3023255813953488
+91,univ-rennes1,Université de Rennes 1,https://hal-univ-rennes1.archives-ouvertes.fr,105160.0,Université de Rennes 1 [UR1],396,187,0.4722222222222222
+4639,univ-paris10,Université Paris Nanterre,https://hal.parisnanterre.fr/,116205.0,Université Paris Nanterre [UPN],137,9,0.06569343065693431
+82,univ-tlse2,Université Toulouse - Jean Jaurès,https://hal-univ-tlse2.archives-ouvertes.fr,116256.0,Université Toulouse - Jean Jaurès [UT2J],113,37,0.3274336283185841
+9610,ec-lyon,École Centrale de Lyon,https://hal-ec-lyon.archives-ouvertes.fr,126765.0,École Centrale de Lyon [ECL],25,0,0.0
+67,agroparistech,AgroParisTech,https://hal-agroparistech.archives-ouvertes.fr,148117.0,AgroParisTech,97,2,0.020618556701030927
+6139,univ-lyon1,Université Claude Bernard Lyon 1,https://hal-univ-lyon1.archives-ouvertes.fr,194495.0,Université Claude Bernard Lyon 1 [UCBL],352,51,0.14488636363636365
+110,amu,Aix-Marseille Université,https://hal-amu.archives-ouvertes.fr,198056.0,Aix Marseille Université [AMU],252,16,0.06349206349206349
+83,ups-tlse,Université Toulouse III - Paul Sabatier,https://hal-univ-tlse3.archives-ouvertes.fr,217752.0,Université Toulouse III - Paul Sabatier [UT3],346,109,0.315028901734104
+46,grenoble-em,Grenoble Ecole de Management,http://hal.grenoble-em.com,220014.0,Grenoble Ecole de Management,28,8,0.2857142857142857
+3775,neoma,NEOMA Business School,https://hal-neoma-bs.archives-ouvertes.fr,232915.0,Neoma Business School [NEOMA],1,0,0.0
+8046,college-de-france,Collège de France,https://hal-college-de-france.archives-ouvertes.fr,300026.0,Collège de France [CdF (institution)],113,2,0.017699115044247787
+66,iogs,Institut d'Optique Graduate School,https://hal-iogs.archives-ouvertes.fr,300036.0,Institut d'Optique Graduate School [IOGS],7,0,0.0
+22,obspm,Observatoire de Paris,https://hal-obspm.ccsd.cnrs.fr,300055.0,Observatoire de Paris,52,12,0.23076923076923078
+8821,u-picardie,Université de Picardie Jules Verne,https://hal-u-picardie.archives-ouvertes.fr,300258.0,Université de Picardie Jules Verne [UPJV],102,19,0.18627450980392157
+63,univ-bourgogne,Université de Bourgogne,https://hal-univ-bourgogne.archives-ouvertes.fr,300270.0,Université de Bourgogne [UB],181,3,0.016574585635359115
+4105,univ-orleans,Université d'Orléans,https://hal-univ-orleans.archives-ouvertes.fr,300297.0,Université d'Orléans [UO],154,44,0.2857142857142857
+3778,univ-reunion,Université de la Réunion,https://hal.univ-reunion.fr,300316.0,Université de La Réunion [UR],106,22,0.20754716981132076
+5853,upf,Université de la Polynésie française,https://hal-upf.archives-ouvertes.fr,300327.0,Université de la Polynésie Française [UPF],12,1,0.08333333333333333
+7658,unc,Université de la Nouvelle Calédonie,https://hal-unc.archives-ouvertes.fr,300328.0,Université de la Nouvelle-Calédonie [UNC],17,1,0.058823529411764705
+81,enscp,Chimie ParisTech,https://hal-enscp.archives-ouvertes.fr,300372.0,Ecole Nationale Supérieure de Chimie de Paris - Chimie ParisTech-PSL [ENSCP],42,13,0.30952380952380953
+8897,uco,Université Catholique de l'Ouest,https://hal-uco.archives-ouvertes.fr,300844.0,Université Catholique de l'Ouest [UCO],22,0,0.0
+6183,univ-pau-pays-adour,Université de Pau et des Pays de l'Adour,https://hal-univ-pau.archives-ouvertes.fr,301085.0,Université de Pau et des Pays de l'Adour [UPPA],58,1,0.017241379310344827
+8935,ulco,Université du Littoral Côte d'Opale,https://hal-ulco.archives-ouvertes.fr,301404.0,Université du Littoral Côte d'Opale [ULCO],43,6,0.13953488372093023
+69,enpc,Ecole des Ponts ParisTech,https://hal-enpc.archives-ouvertes.fr,301545.0,École des Ponts ParisTech [ENPC],62,0,0.0
+84,em-normandie,Ecole de Management de Normandie,https://hal-em-normandie.archives-ouvertes.fr,301735.0,École de Management de Normandie [EM Normandie],2,1,0.5
+7030,vetagro-sup,VetAgro Sup,https://hal-vetagro-sup.archives-ouvertes.fr,301767.0,"VetAgro Sup - Institut national d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement [VAS]",50,7,0.14
+5385,ehesp,Ecole des hautes études en santé publique,https://hal.ehesp.fr,301986.0,École des Hautes Études en Santé Publique [EHESP] [EHESP],36,14,0.3888888888888889
+94,bnf,Bibliothèque nationale de France,https://hal-bnf.archives-ouvertes.fr,302209.0,Bibliothèque Nationale de France,4,1,0.25
+5836,edf,EDF,https://hal-edf.archives-ouvertes.fr,302313.0,EDF [EDF],74,56,0.7567567567567568
+2,inria,Inria,https://hal.inria.fr,300009.0,Unknown Labs [Inria],93,0,0.0
+101,univ-tln,Université de Toulon,https://hal-univ-tln.archives-ouvertes.fr,303091.0,Université de Toulon [UTLN],65,12,0.18461538461538463
+35,supelec,Supelec,https://hal-supelec.archives-ouvertes.fr,303397.0,Ecole Supérieure d'Electricité - SUPELEC (FRANCE),11,0,0.0
+7464,enc,Ecole Nationale des Chartes,https://hal-enc.archives-ouvertes.fr,307249.0,École nationale des chartes [ENC],5,1,0.2
+58,hec,HEC,https://hal-hec.archives-ouvertes.fr,105633.0,Faculté des Hautes Etudes Commerciales (HEC Lausanne) [HEC Lausanne],8,5,0.625
+53,ensmp,MINES ParisTech,https://hal-mines-paristech.archives-ouvertes.fr,301492.0,Fondation MINES ParisTech,50,3,0.06
+5436,univ-montpellier,Université de Montpellier,https://hal.umontpellier.fr,410122.0,Université de Montpellier [UM],192,19,0.09895833333333333
+7463,u-bordeaux-montaigne,Université Bordeaux Montaigne,https://hal-u-bordeaux-montaigne.archives-ouvertes.fr,412629.0,Université Bordeaux Montaigne,66,4,0.06060606060606061
+4090,univ-lorraine,Université de Lorraine,https://hal.univ-lorraine.fr,413289.0,Université de Lorraine [UL],152,14,0.09210526315789473
+7580,u-pec,Université Paris-Est Créteil Val-de-Marne,https://hal.u-pec.fr/,420786.0,Université Paris-Est Créteil Val-de-Marne - Paris 12 [UPEC UP12],313,143,0.45686900958466453
+4808,univ-guyane,Université de Guyane,https://hal.univ-guyane.fr,424370.0,Université de Guyane [UG],14,2,0.14285714285714285
+51,univ-savoie,Université Savoie Mont Blanc,http://hal.univ-smb.fr,432896.0,Université Savoie Mont Blanc [USMB [Université de Savoie] [Université de Chambéry]],59,4,0.06779661016949153
+49,univ-nantes,Université de Nantes,http://hal.univ-nantes.fr,93263.0,Institut de Recherche en Santé de l'Université de Nantes [IRS-UN],263,148,0.5627376425855514
+6599,univ-lille,Université de Lille,https://hal.univ-lille.fr,374570.0,Faculté de Médecine Henri Warembourg - Université de Lille,133,25,0.18796992481203006
+95,audencia,Audencia Business School,https://hal-audencia.archives-ouvertes.fr,456031.0,Audencia Business School,1,0,0.0
+85,uag,Université des Antilles,https://hal.univ-antilles.fr,466882.0,Université des Antilles (Pôle Martinique),11,2,0.18181818181818182
+107,ema,École nationale supérieure des mines d'Albi-Carmaux,https://hal-mines-albi.archives-ouvertes.fr,469216.0,IMT École nationale supérieure des Mines d'Albi-Carmaux [IMT Mines Albi],7,0,0.0
+5939,imt-atlantique,IMT Atlantique,https://hal-imt-atlantique.archives-ouvertes.fr,481355.0,IMT Atlantique Bretagne-Pays de la Loire [IMT Atlantique],44,0,0.0
+7259,cnrs,Centre national de la recherche scientifique,https://hal-cnrs.archives-ouvertes.fr,441569.0,Centre National de la Recherche Scientifique et Technologique [CNRST],5561,999,0.17964394893004856
+50,institut-telecom,Institut Mines-Télécom,https://hal-imt.archives-ouvertes.fr,302102.0,Institut Mines-Télécom Business School [IMT-BS],61,1,0.01639344262295082
+9676,isara,Isara,https://hal-isara.archives-ouvertes.fr,1081289.0,ISARA Corporation,1,0,0.0
+71,hcl,Hospices Civils de Lyon,https://hal-hcl.archives-ouvertes.fr,300074.0,"Hospices Civils de Lyon, Departement de Neurologie [HCL]",478,421,0.8807531380753139
+9613,univ-eiffel,Université Gustave Eiffel,https://hal-univ-eiffel.archives-ouvertes.fr,580722.0,Université Gustave Eiffel,76,1,0.013157894736842105
+6477,u-paris-seine,CY Cergy Paris Université,https://hal-cyu.archives-ouvertes.fr/,1003413.0,CY Cergy Paris Université [CY],37,0,0.0
+7092,telecom-paristech,Télécom Paris,https://hal.telecom-paris.fr,1048346.0,Télécom Paris,3,0,0.0
+8358,universite-paris-saclay,Université Paris-Saclay,https://hal-universite-paris-saclay.archives-ouvertes.fr,419361.0,AP-HP. Université Paris Saclay,243,31,0.12757201646090535
+7921,univ-paris,Université de Paris,https://hal-univ-paris.archives-ouvertes.fr,557826.0,"Unité de Gynécologie Médicale, AP-HP, Hôpital Port-Royal, Université de Paris",535,27,0.05046728971962617
+11,inserm,Inserm,https://www.hal.inserm.fr,303623.0,"Pôle des Cardiopathies Congénitales du Nouveau-Né à L'adulte - Centre Constitutif Cardiopathies Congénitales Complexes M3C, Groupe Hospitalier Paris Saint-Joseph, Hôpital Marie-Lannelongue, Inserm U999, Université Paris-Saclay",2607,790,0.30303030303030304
+30,meteo,Météo-France,https://hal-meteofrance.archives-ouvertes.fr,1079823.0,Météo-France,21,0,0.0
+9844,nantes-universite,Nantes Université,https://hal-nantes-universite.archives-ouvertes.fr,1083366.0,Nantes Université - pôle Santé,22,0,0.0
+5852,agrosup-dijon,AgroSup Dijon,https://hal-agrosup-dijon.archives-ouvertes.fr,415469.0,,31,0,0.0
+90,agrocampus-ouest,Agrocampus Ouest,https://hal-agrocampus-ouest.archives-ouvertes.fr,108028.0,,94,52,0.5531914893617021
+65,brgm,BRGM - Bureau de Recherches Géologiques et Minières,https://hal-brgm.archives-ouvertes.fr,18404.0,,25,10,0.4
+26,cea,CEA - Commissariat à l’énergie atomique,https://hal-cea.archives-ouvertes.fr,300016.0,,830,381,0.45903614457831327
+7636,chu-clermontferrand,CHU de Clermont-Ferrand,https://hal-chu-clermontferrand.archives-ouvertes.fr,1082719.0,,5,1,0.2
+96,cstb,CSTB - Centre Scientifique et Technique du Bâtiment,https://hal-cstb.archives-ouvertes.fr,300021.0,,6,2,0.3333333333333333
+20,cirad,Cirad,http://hal.cirad.fr,11574.0,,203,1,0.0049261083743842365
+6911,cnam,Cnam - Conservatoire national des arts et métiers,https://hal-cnam.archives-ouvertes.fr,300351.0,,166,13,0.0783132530120482
+6616,em-lyon,EM-LYON Business School,https://hal.em-lyon.com,301362.0,,4,3,0.75
+98,enac,ENAC - Ecole Nationale de l'Aviation Civile,https://hal-enac.archives-ouvertes.fr,380071.0,,15,3,0.2
+7267,enssib,ENSSIB,https://hal-enssib.archives-ouvertes.fr,43938.0,,6,2,0.3333333333333333
+64,ensieta,ENSTA Bretagne,https://hal-ensta-bretagne.archives-ouvertes.fr,301846.0,,18,0,0.0
+77,ensta,ENSTA Paris,https://hal-ensta-paris.archives-ouvertes.fr/,300065.0,,10,1,0.1
+79,ephe,EPHE - École pratique des hautes études,https://hal-ephe.archives-ouvertes.fr,110691.0,,134,33,0.2462686567164179
+76,espci,ESPCI Paris,https://hal-espci.archives-ouvertes.fr,301585.0,,91,31,0.34065934065934067
+74,essec,ESSEC BusinessSchool,https://hal-essec.archives-ouvertes.fr,301020.0,,24,16,0.6666666666666666
+73,ecp,Ecole Centrale Paris,https://hal-ecp.archives-ouvertes.fr,300342.0,,13,0,0.0
+6717,univ-lyon2,Hal Lumière Lyon2,https://hal.univ-lyon2.fr,33804.0,,115,3,0.02608695652173913
+99,icp,ICP - Institut Catholique de Paris,https://hal-icp.archives-ouvertes.fr,301937.0,,8,6,0.75
+6,democrite,IN2P3 - Institut national de physique nucléaire et de physique des particules,http://hal.in2p3.fr,300046.0,,60,8,0.13333333333333333
+25,ineris,INERIS - Institut National de l’EnviRonnement Industriel et des RisqueS,https://hal-ineris.archives-ouvertes.fr,3186.0,,14,12,0.8571428571428571
+8822,insa-lyon,INSA Lyon,https://hal-insa-lyon.archives-ouvertes.fr,219748.0,,95,2,0.021052631578947368
+109,insa-rennes,INSA Rennes,https://hal-insa-rennes.archives-ouvertes.fr,117606.0,,29,10,0.3448275862068966
+5761,insa-toulouse,INSA-Toulouse,https://hal.insa-toulouse.fr,116255.0,,43,9,0.20930232558139536
+5815,inshea,INSHEA,https://hal-inshea.archives-ouvertes.fr,308431.0,,1,0,0.0
+27,insu,INSU - Institut national des sciences de l'Univers,https://hal-insu.archives-ouvertes.fr,300045.0,,199,13,0.06532663316582915
+19,ird,IRD - Institut de recherche pour le développement,https://hal.ird.fr,67872.0,,240,112,0.4666666666666667
+29,irsn,IRSN - Institut de Radioprotection et de Sûreté Nucléaire,https://hal-irsn.archives-ouvertes.fr,300040.0,,280,249,0.8892857142857142
+4217,inalco,Inalco - Institut National des Langues et Civilisations Orientales,https://hal-inalco.archives-ouvertes.fr,300064.0,,52,8,0.15384615384615385
+59,inrap,Inrap - Institut national de recherches archéologiques préventives,https://hal-inrap.archives-ouvertes.fr,301475.0,,15,1,0.06666666666666667
+4638,insep,"Insep - Institut national du sport, de l'expertise et de la performance",https://hal-insep.archives-ouvertes.fr,441096.0,,5,0,0.0
+7808,inrae,"Institut National de Recherche en Agriculture, Alimentation et Environnement",https://hal.inrae.fr,577435.0,,505,21,0.041584158415841586
+34,mnhn,MNHN - Muséum national d'Histoire naturelle,https://hal-mnhn.archives-ouvertes.fr,7512.0,,141,0,0.0
+4926,montpellier-supagro,Montpellier SupAgro,https://hal-montpellier-supagro.archives-ouvertes.fr,1090073.0,,25,0,0.0
+3895,normandie-univ,Normandie Université,https://hal-normandie-univ.archives-ouvertes.fr,455934.0,,9,0,0.0
+106,onera,ONERA - Office National d'Études et de Recherches Aérospatiales,https://hal-onera.archives-ouvertes.fr,300024.0,,75,7,0.09333333333333334
+104,pse,PSE - Paris School of Economics,https://hal-pse.archives-ouvertes.fr,301309.0,,6,4,0.6666666666666666
+108,esc-rennes,Rennes Business School,https://hal-rennes-sb.archives-ouvertes.fr,301752.0,,1,0,0.0
+78,rbs,Rouen Business School,https://hal-rbs.archives-ouvertes.fr,301663.0,,10,1,0.1
+70,sorbonne-universite,Sorbonne Université,https://hal.sorbonne-universite.fr,413221.0,,392,18,0.04591836734693878
+3681,univ-fcomte,UFC - Université de Franche-Comté,https://hal-univ-fcomte.archives-ouvertes.fr,458810.0,,204,79,0.3872549019607843
+12,ujm,UJM - Université Jean Monnet,https://hal-ujm.archives-ouvertes.fr,300284.0,,165,62,0.37575757575757573
+3776,usj,USJ - Université Saint-Joseph de Beyrouth,https://hal-usj.archives-ouvertes.fr,301405.0,,97,59,0.6082474226804123
+3680,univ-bsud,Université Bretagne Sud,https://hal-univ-ubs.archives-ouvertes.fr,172265.0,,80,29,0.3625
+105,clermont-univ,Université Clermont Auvergne,https://hal.uca.fr,1063463.0,,63,0,0.0
+31,univ-cotedazur,Université Cote d'Azur,https://hal.univ-cotedazur.fr,1039632.0,,112,2,0.017857142857142856
+4793,univ-evry,Université Evry Val d’Essonne,https://hal-univ-evry.archives-ouvertes.fr,300306.0,,104,28,0.2692307692307692
+103,univ-tours,Université Francois Rabelais - Tours,https://hal-univ-tours.archives-ouvertes.fr,300298.0,,164,64,0.3902439024390244
+100,saga,Université Grenoble Alpes,https://hal.univ-grenoble-alpes.fr,1042703.0,,137,1,0.0072992700729927005
+43,univ-lyon3,Université Jean Moulin Lyon 3,https://hal-univ-lyon3.archives-ouvertes.fr,118744.0,,56,0,0.0
+97,univ-lille3,Université Lille 3 - Sciences Humaines et Sociales,https://hal.univ-lille3.fr,301700.0,,32,2,0.0625
+4025,univ-paris-dauphine,Université Paris Dauphine - Paris IX,https://hal-univ-paris-dauphine.archives-ouvertes.fr,300302.0,,55,35,0.6363636363636364
+32,descartes,Université Paris Descartes,https://hal-descartes.archives-ouvertes.fr,301664.0,,704,411,0.5838068181818182
+45,univ-diderot,Université Paris Diderot-Paris 7,https://hal-univ-diderot.archives-ouvertes.fr,300301.0,,869,476,0.5477560414269275
+5512,univ-paris-lumieres,Université Paris Lumières,https://hal-univ-paris-lumieres.archives-ouvertes.fr,475360.0,,1,0,0.0
+8199,psl,"Université Paris, Sciences & Lettres - PSL",https://hal-psl.archives-ouvertes.fr,564132.0,,37,12,0.32432432432432434
+80,univ-mlv,Université Paris-Est Marne-la-Vallée,https://hal-upec-upem.archives-ouvertes.fr,301243.0,,63,28,0.4444444444444444
+8393,univ-montpellier3-paul-valery,Université Paul Valéry Montpellier 3,https://hal-univ-montpellier3-paul-valery.archives-ouvertes.fr,42812.0,,84,0,0.0
+6442,uphf,Université Polytechnique des Hauts-de-France,https://hal-uphf.archives-ouvertes.fr,1001263.0,,21,0,0.0
+5241,univ-rennes2,Université Rennes 2,https://hal.univ-rennes2.fr,406201.0,,132,14,0.10606060606060606
+61,univ-avignon,Université d'Avignon et des Pays de Vaucluse,https://hal-univ-avignon.archives-ouvertes.fr,195507.0,,70,21,0.3
+38,univ-brest,Université de Bretagne Occidentale,https://hal.univ-brest.fr,300314.0,,259,114,0.44015444015444016
+88,univ-corse,Université de Corse Pascal Paoli,https://hal-univ-corse.archives-ouvertes.fr,508779.0,,3,2,0.6666666666666666
+5511,univ-rochelle,Université de La Rochelle,https://hal-univ-rochelle.archives-ouvertes.fr,300311.0,,51,2,0.0392156862745098
+5303,udl,Université de Lyon,https://hal-udl.archives-ouvertes.fr,301088.0,,107,57,0.5327102803738317
+5242,univ-lemans,Université du Maine,https://hal-univ-lemans.archives-ouvertes.fr,7566.0,,60,13,0.21666666666666667
+7468,enva,École Nationale vétérinaire d'Alfort,https://hal-enva.archives-ouvertes.fr,34256.0,,104,76,0.7307692307692307
+7706,mines-ales,École des Mines d'Alès,https://hal.mines-ales.fr,6279.0,,13,1,0.07692307692307693
+102,emn,École des Mines de Nantes,https://hal-mines-nantes.archives-ouvertes.fr,84538.0,,16,6,0.375
+18,emse,École des Mines de Saint-Étienne,https://hal-emse.ccsd.cnrs.fr,359750.0,,14,9,0.6428571428571429
