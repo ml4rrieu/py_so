@@ -96,7 +96,7 @@
 |Démo | [aurehal_struct_noise_per_institution_graph.ipynb](exo/aurehal_struct_noise_per_institution_graph.ipynb) |
 
 
-cf. résultat [nuage de mots-clés](img/noise-level-per-institution.png)
+cf. résultat [nuage de mots-clés](img/aurehal-struct-cleaniest-institutions.png)
 
 <br />
 
