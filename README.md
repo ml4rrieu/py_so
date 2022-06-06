@@ -93,7 +93,7 @@
 |Difficulté| moyen  |
 |Compétences| wordcloud, pandas, matplotlib|
 |Objectif | Rendre comte du niveau de bruit des étab. dans le ref. structure|
-|Démo | [aurehal_struct_noise_per_institution_graph.ipynb](exo/aurehal_struct_noise_per_institution_graph.ipynb) |
+|Démo | [aurehal_struct_noise_per_institution_graph.ipynb](demo/aurehal_struct_noise_per_institution_graph.ipynb) |
 
 
 cf. résultats [nuage de mots-clés](https://raw.githubusercontent.com/ml4rrieu/py_so/main/img/aurehal-struct-cleaniest-institutions.png)
