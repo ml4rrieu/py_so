@@ -81,7 +81,7 @@
 |Difficulté| moyen  |
 |Compétences| requêtes aurehal struct, données API, fonction|
 |Objectif | Sensibiliser les adminsitrateurs HAL à la propreté du référentiel structure|
-|Démo | [aurehal_struct_noise_per_institution.ipynb](exo/aurehal_struct_noise_per_institution.ipynb) |
+|Démo | [aurehal_struct_noise_per_institution.ipynb](demo/aurehal_struct_noise_per_institution.ipynb) |
 
 
 <br />
