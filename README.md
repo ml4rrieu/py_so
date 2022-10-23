@@ -6,7 +6,7 @@
 <br />
 <br />
 
-[Applications](#applications) | [Techniques](#techniques-à-maîtriser) | [Contexte](#contexte)
+[Techniques](#techniques-à-maîtriser) | [Contexte](#contexte) | [Ressources][#ressources]
  
 ## Applications
 
@@ -178,12 +178,11 @@ La formation ne vous permettra pas de programmer en python. Par contre la réali
 <br />
 <br />
 
-## Outils
-
+## Ressources
 
 * JSON Viewer https://jsoncrack.com/editor
 
-* Excellent cours sur python https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
+* Excellent cours en ligne https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
 
 * Ressource phySHS https://github.com/pyshs/ressources-pyshs
 
