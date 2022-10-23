@@ -6,7 +6,7 @@
 <br />
 <br />
 
-[Techniques](#techniques-à-maîtriser) | [Contexte](#contexte) | [Ressources][#ressources]
+[Techniques](#techniques-à-maîtriser) | [Contexte](#contexte) | [Ressources](#ressources)
  
 ## Applications
 
