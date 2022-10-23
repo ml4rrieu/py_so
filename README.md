@@ -18,8 +18,8 @@
 |Exercice | [pub_projet_research_hal_no_oa.ipynb](exo/pub_projet_research_hal_no_oa.ipynb) |
 |Compétences| requêtes API HAL, json vers dataframe|
 |Objectif | faire respecter l'obligation d'accès ouvert|
-|Démo | [pub_projet_research_hal_no_oa.ipynb](demo/pub_projet_research_hal_no_oa.ipynb)|
-
+<!-- |Démo | [pub_projet_research_hal_no_oa.ipynb](demo/pub_projet_research_hal_no_oa.ipynb)|
+-->
 <br />
 
 
@@ -31,8 +31,8 @@
 |Exercice | [hal_evol_depots.ipynb](exo/hal_evol_depots.ipynb) |
 |Compétences| requêtes API de HAL en série, json vers dataframe, plot histogramme|
 |Objectif | Automatiser la production de statistiques pour les unités de recherche|
-|Démo | [hal_evol_depots.ipynb](demo/hal_evol_depots.ipynb)|
-
+<!--|Démo | [hal_evol_depots.ipynb](demo/hal_evol_depots.ipynb)|
+--> 
 <br />
 
 
@@ -145,8 +145,8 @@ https://oaamu.hypotheses.org/2197
 ## Pré-requis
 
 - Avoir les compétences décrites jusqu'au chapitre 4 du manuel _Python pour les SHS_ 
-- Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel structures de aurehal)
-- Bonne connaissance du paysage de l'ESR et des enjeux de la science ouverte
+- Maîtriser les APIs de HAL (l'API générale "search" et celle du référentiel structures de Aurehal)
+- Bonne connaissance du paysage de l'Enseignement Supérieur et de la Recherche et des enjeux de la science ouverte
 
 <br />
 <br />
@@ -165,9 +165,26 @@ https://oaamu.hypotheses.org/2197
 
 ## Contexte
 
-En juin 2021 le besoin d'une formation sur Python à destination des publics travaillant pour la science ouverte se fait ressentir. Une première édition est réalisée avec l'URFIST d'Occitanie en deux temps : une formation sur les fondamentaux de Python, assurée par Émilien Schultz co-auteur de _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)) sur 1.5 jours, suivie d'une autre sur _Python pour la science ouverte_, assurée par Maxence Larrieu également sur 1,5 jours. 
+* 2022-10, URFIST Occitanie
+* 2021-11, URFIST Occitanie
+
+Formation initiée en 2021 avec Emilien Shultz, à la suite de l'excellent ouvrage _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)). Formation en deux volets (2* 1.5 jours) : _Python les fondamentaux_ et _Python pour la science ouverte_.
 
 > Un langage de programmation ne s'apprend pas en trois jours.
 
-La formation ne vous permettra pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et votre curiosité, vous permettront de comprendre et écrire du python.
+La formation ne vous permettra pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et curiosité vous permettront de comprendre et écrire du python.
 
+
+<br />
+<br />
+
+## Outils
+
+
+* JSON Viewer https://jsoncrack.com/editor
+
+* Excellent cours sur python https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
+
+* Ressource phySHS https://github.com/pyshs/ressources-pyshs
+
+* matplotlib Cheatsheets https://github.com/matplotlib/cheatsheets
