@@ -18,8 +18,8 @@
 |Exercice | [pub_projet_research_hal_no_oa.ipynb](exo/pub_projet_research_hal_no_oa.ipynb) |
 |Compétences| requêtes API HAL, json vers dataframe|
 |Objectif | faire respecter l'obligation d'accès ouvert|
-<!-- |Démo | [pub_projet_research_hal_no_oa.ipynb](demo/pub_projet_research_hal_no_oa.ipynb)|
--->
+|Démo | [pub_projet_research_hal_no_oa.ipynb](demo/pub_projet_research_hal_no_oa.ipynb)|
+
 <br />
 
 
@@ -31,8 +31,8 @@
 |Exercice | [hal_evol_depots.ipynb](exo/hal_evol_depots.ipynb) |
 |Compétences| requêtes API de HAL en série, json vers dataframe, plot histogramme|
 |Objectif | Automatiser la production de statistiques pour les unités de recherche|
-<!--|Démo | [hal_evol_depots.ipynb](demo/hal_evol_depots.ipynb)|
---> 
+|Démo | [hal_evol_depots.ipynb](demo/hal_evol_depots.ipynb)|
+ 
 <br />
 
 
