@@ -18,7 +18,7 @@
 |Exercice | [pub_projet_research_hal_no_oa.ipynb](exo/pub_projet_research_hal_no_oa.ipynb) |
 |Compétences| requêtes API HAL, json vers dataframe|
 |Objectif | faire respecter l'obligation d'accès ouvert|
-|Démo | [pub_projet_research_hal_no_oa.ipynb](demo/pub_projet_research_hal_no_oa.ipynb)|
+<!-- |Démo | [pub_projet_research_hal_no_oa.ipynb](demo/pub_projet_research_hal_no_oa.ipynb)| -->
 
 <br />
 
@@ -31,7 +31,7 @@
 |Exercice | [hal_evol_depots.ipynb](exo/hal_evol_depots.ipynb) |
 |Compétences| requêtes API de HAL en série, json vers dataframe, plot histogramme|
 |Objectif | Automatiser la production de statistiques pour les unités de recherche|
-|Démo | [hal_evol_depots.ipynb](demo/hal_evol_depots.ipynb)|
+<!-- |Démo | [hal_evol_depots.ipynb](demo/hal_evol_depots.ipynb)| -->
  
 <br />
 
@@ -44,7 +44,7 @@
 |Exercice | [get_anr_research_project.ipynb](exo/get_anr_research_project.ipynb) |
 |Compétences| requêtes aurehal structure, données API, read_csv, filtre|
 |Objectif | initier une politique de suivi des publications des projets de recherche ANR|
-|Démo | [get_anr_research_project.ipynb](demo/get_anr_research_project.ipynb) |
+<!-- |Démo | [get_anr_research_project.ipynb](demo/get_anr_research_project.ipynb) | -->
 
 <br />
 
@@ -57,7 +57,7 @@
 |Exercice | [aurehal_struct_noise.ipynb](exo/aurehal_struct_noise.ipynb) |
 |Compétences| requêtes aurehal structure, données API, fonction|
 |Objectif | Mesurer le niveau de bruit de son établissement dans le référentiel HAL structure|
-|Démo | [aurehal_struct_noise.ipynb](demo/aurehal_struct_noise.ipynb) |
+<!-- |Démo | [aurehal_struct_noise.ipynb](demo/aurehal_struct_noise.ipynb) | -->
 
 <br />
 
@@ -69,7 +69,7 @@
 |Exercice | [aurehal_struct_incoming_list.ipynb](exo/aurehal_struct_incoming_list.ipynb) |
 |Compétences| requêtes aurehal struct, données API, fonction apply|
 |Objectif | Nettoyer les structures de son établissement dans le référentiel AureHAL|
-|Démo | [aurehal_struct_incoming_list.ipynb](demo/aurehal_struct_incoming_list.ipynb)|
+<!-- |Démo | [aurehal_struct_incoming_list.ipynb](demo/aurehal_struct_incoming_list.ipynb)| -->
 
 
 <br />
@@ -81,7 +81,7 @@
 |Difficulté| moyen  |
 |Compétences| requêtes aurehal struct, données API, fonction|
 |Objectif | Sensibiliser les adminsitrateurs HAL à la propreté du référentiel structure|
-|Démo | [aurehal_struct_noise_per_institution.ipynb](demo/aurehal_struct_noise_per_institution.ipynb) |
+<!-- |Démo | [aurehal_struct_noise_per_institution.ipynb](demo/aurehal_struct_noise_per_institution.ipynb) | -->
 
 
 <br />
@@ -165,6 +165,7 @@ https://oaamu.hypotheses.org/2197
 
 ## Contexte
 
+* 2023-03, URFIST Lyon
 * 2022-10, URFIST Occitanie
 * 2021-11, URFIST Occitanie
 
@@ -187,3 +188,5 @@ La formation ne vous permettra pas de programmer en python. Par contre la réali
 * Ressource phySHS https://github.com/pyshs/ressources-pyshs
 
 * matplotlib Cheatsheets https://github.com/matplotlib/cheatsheets
+
+* Jupyter manual https://docs.jupyter.org/en/latest/index.html
