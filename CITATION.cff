@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Python pour la science ouverte
+type: software
+authors:
+  - given-names: Maxence
+    family-names: Larrieu
+    orcid: 'https://orcid.org/0000-0002-1834-3007'
+repository-code: 'https://github.com/ml4rrieu/py_so'
+abstract: >-
+  Exemples de notebooks Jupyter permettant de déployer la  
+  science ouverte en contexte institutionnel
+keywords:
+  - open science
+  - open scholarly communication
+license: GPL-3.0

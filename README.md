@@ -1,7 +1,8 @@
 
 ![Python pour la science ouverte](./img/py_so_com.png)
 
-* twitter : [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
+# Exemples de Jupyter notebooks en Python en faveur de la science ouverte
+
 
 <br />
 <br />
@@ -142,6 +143,30 @@ https://oaamu.hypotheses.org/2197
 <br />
 <br />
 
+
+
+## Contexte
+
+Formation initiée en 2021 avec Emilien Shultz, à la suite de l'excellent ouvrage _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)). Formation en deux volets (2* 1.5 jours) : _Python les fondamentaux_ et _Python pour la science ouverte_.
+
+> Un langage de programmation ne s'apprend pas en trois jours.
+
+La formation en elle-même ne vous permettra pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et curiosité vous permettront de faire du python.
+
+
+* 2023-05, CasuHAL Visioconférence
+* 2023-03, URFIST Lyon
+* 2022-10, URFIST Occitanie
+* 2022-06, Journées CasuHAL
+* 2021-11, URFIST Occitanie
+
+
+Partage sur twitter : [#py_so](https://twitter.com/hashtag/py_so?src=hashtag_click)
+
+
+<br />
+<br />
+
 ## Pré-requis
 
 - Avoir les compétences décrites jusqu'au chapitre 4 du manuel _Python pour les SHS_ 
@@ -159,22 +184,6 @@ https://oaamu.hypotheses.org/2197
 * fonction avec argument 
 * sortir un résultat structuré
 * filtrer une dataframe, extraire une liste, ajouter colonne 
-
-<br />
-<br />
-
-## Contexte
-
-* 2023-03, URFIST Lyon
-* 2022-10, URFIST Occitanie
-* 2021-11, URFIST Occitanie
-
-Formation initiée en 2021 avec Emilien Shultz, à la suite de l'excellent ouvrage _Python pour les SHS_ ([pyshs.fr](http://pyshs.fr/)). Formation en deux volets (2* 1.5 jours) : _Python les fondamentaux_ et _Python pour la science ouverte_.
-
-> Un langage de programmation ne s'apprend pas en trois jours.
-
-La formation ne vous permettra pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et curiosité vous permettront de comprendre et écrire du python.
-
 
 <br />
 <br />
