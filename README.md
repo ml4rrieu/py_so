@@ -125,6 +125,18 @@ Notebook réalisé dans le cadre du [CasuHalathon 2021](https://casuhal2021.scie
 |Objectif | Retrouver les jeux de données déposés dans Zenodo relevant de son établissement|
 |Démo | [get_dataset_from_zenodo.ipynb](demo/get_dataset_from_zenodo.ipynb)|
 
+<br />
+
+### Récupérer les métadonnées d'un article publié avec Lodel pour enregistrer son DOI chez CrossRef
+
+| | |
+| -------- |--------|
+|Difficulté| moyenne  |
+|Compétences| request, XML, BeautifulSoup |
+|Objectif | Récupérer les métadonnées et former un XML Crossref pour l'enregistrement du DOI|
+|Démo | [get_metadata_from_article_to_register_crossref_doi.ipynb](demo/get_metadata_from_article_to_register_crossref_doi.ipynb)|
+
+
 
 <!--
 
