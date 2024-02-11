@@ -58,7 +58,7 @@
 |Exercice | [aurehal_struct_noise.ipynb](exo/aurehal_struct_noise.ipynb) |
 |Compétences| requêtes aurehal structure, données API, fonction|
 |Objectif | Mesurer le niveau de bruit de son établissement dans le référentiel HAL structure|
-|Démo | [aurehal_struct_noise.ipynb](demo/aurehal_struct_noise.ipynb) |
+<!-- |Démo | [aurehal_struct_noise.ipynb](demo/aurehal_struct_noise.ipynb) | -->
 
 <br />
 
@@ -163,9 +163,10 @@ Formation initiée en 2021 avec Emilien Shultz, à la suite de l'excellent ouvra
 
 > Un langage de programmation ne s'apprend pas en trois jours.
 
-La formation en elle-même ne vous permettra pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et curiosité vous permettront de faire du python.
+La formation en elle-même ne vous permettra pas de programmer en python. Par contre la réalisation des exercices, le livre _Python pour les SHS_, des MOOCs, votre perséverance et curiosité vous permettront de programmer en python.
 
 
+* 2024-02, URFIST Lyon
 * 2023-05, CasuHAL Visioconférence
 * 2023-03, URFIST Lyon
 * 2022-10, URFIST Occitanie
