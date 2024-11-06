@@ -1,7 +1,7 @@
 
 ![Python pour la science ouverte](./img/py_so_com.png)
 
-# Exemples de notebooks Jupyter permettant de déployer la science ouverte en contexte institutionnel
+# Exemples de notebooks Jupyter pour booster la science ouverte dans son établissement
 
 
 <br />
